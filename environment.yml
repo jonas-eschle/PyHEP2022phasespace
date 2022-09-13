@@ -1,6 +1,6 @@
 name: pyhep2022-phasespace
 channels:
-  - defaults, conda-forge
+  - conda-forge
 dependencies:
   - pip
   - hist
