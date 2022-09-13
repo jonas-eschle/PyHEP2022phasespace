@@ -2,6 +2,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonthor/PyHEP2022/HEAD?urlpath=lab/tree/lightning-talk.ipynb)
 
+Alternative Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonas-eschle/PyHEP2022phasespace/HEAD?urlpath=lab/tree/lightning-talk.ipynb)
+
+
 ## Authors
 Primary author: Simon Thor
 
